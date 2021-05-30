@@ -17,3 +17,6 @@ example/zipfs/zipfs
 
 # Vagrant
 .vagrant
+
+# Idea
+.idea
